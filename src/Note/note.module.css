@@ -1,0 +1,310 @@
+.sheet {
+    width: 250px;
+    padding: 15px;
+    border: 1px solid darksalmon;
+    position: relative;
+    text-align: center;
+    /*background-color: khaki;*/
+    margin: 30px;
+}
+
+.sheetHeader {
+    width: 100%;
+    border-bottom: 1px solid darksalmon;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+form{
+    padding: 20px 150px;
+}
+.sheetBody {
+    width: 100%;
+    text-decoration: none;
+    padding: 15px 0;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    vertical-align: center;
+    justify-content: space-around;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    margin-bottom: 10px;
+}
+
+.logo {
+    width: 40%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.logo>img{
+    width: 70px;
+    height: 70px;
+}
+.logo>span{
+   vertical-align: super;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 25px;
+}
+
+.links {
+    width: 40%;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.links > a {
+    text-decoration: none;
+    padding: 0 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.create {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.title {
+    width: 300px;
+    height: 30px;
+    display: block;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 -2px 10px salmon;
+    padding-left: 5px;
+    outline: none;
+}
+
+.text {
+    width: 300px;
+    height: 110px;
+    display: block;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 -2px 10px salmon;
+    padding-left: 5px;
+    outline: none;
+}
+
+label {
+    vertical-align: super;
+}
+
+.colorButton {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 50px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    outline: none;
+
+}
+
+.button {
+    width: 200px;
+    outline: none;
+    border: none;
+    display: block;
+    margin-top: 40px;
+    padding: 17px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+    margin-right: auto;
+    margin-left: auto;
+    cursor: pointer;
+}
+
+.color1 {
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+}
+
+.color2 {
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+}
+
+.color3 {
+    background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+.color4 {
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.modal {
+    width: 300px;
+    height: 180px;
+    border: 1px solid #fda085;
+    background-image: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+
+.modalHeader {
+    width: 100%;
+    color: black;
+    font-size: 20px;
+    border-bottom: 1px solid #fda085;
+    position: absolute;
+    top: 0;
+    text-align: center;
+
+}
+
+.ok {
+    width: 100px;
+    padding: 10px 0;
+    color: black;
+    font-weight: bold;
+    background-color: #0fd850;
+    border: none;
+    margin-top: 70px;
+    cursor: pointer;
+    outline: none;
+}
+
+.cancel {
+    width: 100px;
+    padding: 10px 0;
+    color: black;
+    font-weight: bold;
+    background-color: firebrick;
+    border: none;
+    margin-top: 70px;
+    cursor: pointer;
+    outline: none;
+}
+
+.modalContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 666.5px;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.noteContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    flex-wrap: wrap;
+    margin: auto;
+
+}
+
+.note {
+    width: 60%;
+    border: 1px solid #0fd850;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+
+.note > button{
+    width: 140px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+    cursor: pointer;
+
+}
+.note >.btn{
+    width: 140px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+    cursor: pointer;
+
+}
+
+.noteTitle {
+    outline: none;
+    border: none;
+    background-color: #fff;
+    display: block;
+    padding: 10px 140px;
+    margin-left: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.noteText {
+    outline: none;
+    border: none;
+    background-color: #fff;
+    width: 70%;
+    height: 200px;
+    resize: none;
+    overflow: hidden;
+    display: block;
+    margin-left: 120px;
+    font-size: 17px;
+    font-family: Serif;
+
+}
+
+.textContainer {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+textarea {
+
+    border: none;
+    outline: none;
+}
+
+.note > div {
+    display: block;
+
+}

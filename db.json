@@ -1,0 +1,157 @@
+{
+  "notes": [
+    {
+      "title": "note1",
+      "text": "edited:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in",
+      "color": "yellow",
+      "isCompleted": "true",
+      "id": "1"
+    },
+    {
+      "title": "note2",
+      "text": "edited:It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing",
+      "color": "aqua",
+      "isCompleted": "true",
+      "id": "2"
+    },
+    {
+      "title": "note3",
+      "text": "edited2:making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "color": "red",
+      "isCompleted": "true",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "note4",
+      "text": "t has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in",
+      "color": "khaki",
+      "isCompleted": "true"
+    },
+    {
+      "id": "5",
+      "title": "note5",
+      "text": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "color": "aqua",
+      "isCompleted": "true"
+    },
+    {
+      "id": "6",
+      "title": "note6",
+      "text": "o has been the induan unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in",
+      "color": "orange",
+      "isCompleted": "false"
+    },
+    {
+      "id": "2208",
+      "title": "nnnn",
+      "text": "mnm njlkmlk",
+      "color": "orange",
+      "isCompleted": "true"
+    },
+    {
+      "title": "title1",
+      "text": "edited:text1",
+      "id": "3226",
+      "color": "khaki",
+      "isCompleted": "true"
+    },
+    {
+      "title": "heyy",
+      "text": "test6 completed",
+      "color": "red",
+      "isCompleted": "true",
+      "id": "6497"
+    },
+    {
+      "id": "6124",
+      "title": "mavi",
+      "text": "mavii",
+      "color": "note_color2__1BROr"
+    },
+    {
+      "id": "6624",
+      "title": "yasil",
+      "text": "yasil",
+      "color": "note_color3__2TAzc",
+      "isCompleted": "false"
+    },
+    {
+      "id": "7359",
+      "title": "rengin adini bilmirem",
+      "text": "rengin adini bilmirem",
+      "color": "note_color4__2x-R7",
+      "isCompleted": "false"
+    },
+    {
+      "title": "isnotcompleted",
+      "text": "iscompleted",
+      "color": "#a4a44f",
+      "isCompleted": "true",
+      "id": "8608"
+    },
+    {
+      "id": "3231",
+      "title": "hey",
+      "text": "im testing",
+      "color": "#248bc5",
+      "isCompleted": "true"
+    },
+    {
+      "title": "hey",
+      "text": "heyyoedited",
+      "color": "#305ad4",
+      "isCompleted": "true",
+      "id": "7681"
+    },
+    {
+      "title": "is completed 1",
+      "text": "is completed",
+      "color": "#32310c",
+      "isCompleted": "true",
+      "id": "1374"
+    },
+    {
+      "title": "",
+      "text": "is completed",
+      "color": "#a33863",
+      "isCompleted": "true",
+      "id": "5038"
+    },
+    {
+      "id": "3873",
+      "title": "iiiiiiiiii",
+      "text": "isnote completed 2",
+      "color": "#998e8d",
+      "isCompleted": "false"
+    },
+    {
+      "id": "9405",
+      "title": "",
+      "text": "",
+      "color": "#55c79a",
+      "isCompleted": "true"
+    },
+    {
+      "id": "4080",
+      "title": "",
+      "text": "",
+      "color": "#ac2eac",
+      "isCompleted": "true"
+    },
+    {
+      "id": "8482",
+      "title": "heyyo",
+      "text": "heyoo",
+      "color": "#2c68a5",
+      "isCompleted": "false"
+    },
+    {
+      "id": "3345",
+      "title": "",
+      "text": "",
+      "color": "#b58c4d",
+      "isCompleted": "false"
+    }
+  ]
+}
